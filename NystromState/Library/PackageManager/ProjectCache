@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637985597858797249
-    m_Hash: 1071124706
+      ticks: 637987831195396553
+    m_Hash: 3611920377
   m_LockFileStatus:
     m_FilePath: C:/Users/njere/Documents/GitHub/NystromState/NystromState/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637985598273522330
-    m_Hash: 2593603777
+      ticks: 637987831195413225
+    m_Hash: 3793744847
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
